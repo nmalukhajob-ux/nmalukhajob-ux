@@ -1,5 +1,4 @@
-### Hi! I'm Natallia 
-#### Software Quality Assurance Engineer
+### Hi! I'm Natallia - Software Quality Assurance Engineer
 
 With a strong attention to detail and a proactive approach, I thrive in fast-paced environments, collaborating with teams to enhance testing processes and deliver seamless user experiences.
   
